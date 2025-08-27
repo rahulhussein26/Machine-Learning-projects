@@ -39,4 +39,4 @@ def func(x):
     return slope*x_val + intercept
 
 
-# need to create the model 
+# need to create the model u 
